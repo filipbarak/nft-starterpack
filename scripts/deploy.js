@@ -12,5 +12,3 @@ async function main() {
       console.error(error)
       process.exit(1)
     })
-  
-    // deployed to: 0x93003B69e027e19e4a25634bf02AeDada48935d2
